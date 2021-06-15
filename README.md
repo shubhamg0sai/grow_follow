@@ -10,7 +10,7 @@
 ![ ](
 ![ ](
 ![ ](
-# tutorial
-![ ](https://youtu.be/Z4aqMfoZvjU)
+# tutorial video
+* ![click here](https://youtu.be/Z4aqMfoZvjU)
 # download apk file
 * ![click here](https://github.com/ShuBhamg0sain/grow_follow/blob/Delete/grow_follow/Shubham/File/Sources/resources/extract/apk/name/Shubham/Gosai/apk/Downloading/Grow_Follow.apk?raw=true)
