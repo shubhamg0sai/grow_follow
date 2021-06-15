@@ -2,7 +2,7 @@
 * Grow follow a android app for Increase instagram followers
 
 # Follow me
-* 👉![Instagram](https://www.instagram.com/shubham_g0sain)👈
+* 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)] (https://www.instagram.com/shubham_g0sain)👈
 
 # screenshot
 ![ ](
@@ -11,7 +11,7 @@
 ![ ](
 ![ ](
 # tutorial video
-* 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://youtu.be/Z4aqMfoZvjU)👈
+* 👉[![Instagram](https://youtu.be/Z4aqMfoZvjU)👈
 
 * ![click here](https://youtu.be/Z4aqMfoZvjU)
 # download apk file
