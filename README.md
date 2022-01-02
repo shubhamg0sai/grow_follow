@@ -3,7 +3,7 @@
 
 # Follow me
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 # screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/grow_follow/Delete/Screenshot_20210615_144721.jpg)
